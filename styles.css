@@ -2,3 +2,9 @@ img{
     border: 1px solid white;
     border-radius: 50%;
 }
+body{
+    background-color: rgb(247, 248, 248);
+}
+p{
+    border-radius: 1rem;
+}
